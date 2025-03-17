@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/kahve2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#container{
+    width: 700px;
+    margin-top: 50px;
+}
+

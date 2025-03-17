@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/WhatsApp\ Görsel\ 2024-04-28\ saat\ 20.40.42_74d5ea43.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#container{
+    width: 700px;
+    margin-top: 50px;
+}
+
